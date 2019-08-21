@@ -162,7 +162,7 @@ under the License.
     <id>aliyunmaven</id>
     <mirrorOf>*</mirrorOf>
     <name>Aliyun Maven Repo</name>
-    <url>https://maven.aliyun.com/repository/public</url>
+    <url>http://10.102.28.35:8081/repository/maven-public</url>
 </mirror>
 
   </mirrors>
